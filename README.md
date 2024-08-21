@@ -65,4 +65,15 @@
 3. [Dr. Jack L. Jackson II](https://www.geogebra.org/u/jack.jackson)  -> Curadorias de recursos de Cálculo, applets e explicações teóricas
 4. [Tim Brzezinski](tbrzezinski) -> Materiais dinâmicos diversos e curadoria de recursos de cálculo
 
-### Contribuições
+### 📚 Livros
+1. STEWART, James. Cálculo. São Paulo: Cenage Learning, 2014. Disponível na [Biblioteca Central Julieta Carteado UEFS](https://pergamum.uefs.br/acervo/141818/referencia) e no sistema [Minha Biblioteca](https://app.minhabiblioteca.com.br/books/9786555584097)
+2. STEWART, James. Calculo. 6 ed. São Paulo: Cenage Learning, 2009. v.2 ISBN 8522102368. Disponível na [Biblioteca Central Julieta Carteado UEFS](https://pergamum.uefs.br/acervo/112078/) e no sistema [Minha Biblioteca](https://app.minhabiblioteca.com.br/books/9786555584103)
+3. FLEMMING, Diva Marilia; GONÇALVES, Mirian Buss. Calculo A: funcoes, limite, derivacao, integracao. 6. ed. rev. e ampl. São Paulo, SP: Pearson Prentice Hall, 2007. xv, 617 p ISBN 0-07-460687-5: (broch.). Disponível na [Biblioteca Central Julieta Carteado UEFS](https://pergamum.uefs.br/acervo/133904/referencia)
+4. GONICK, Larry. Cálculo em quadrinhos. São Paulo: Editora Blucher, 2014. E-book. ISBN 9788521208303. Disponível no sistema [Minha biblioteca](https://app.minhabiblioteca.com.br/#/books/9788521208303/).
+5. KOJIMA, Hiroyuki. Guia mangá de cálculo diferencial e integral. São Paulo: Novatec, 2010.
+6. Thompson e M. Gardner. Calculus Made Easy. Macmillan, New York, 1998. **Busque pelas versões atualizadas!!**
+
+> [!TIP]
+> Os livros 'Cálculo em Quadrinhos' e 'Guia mangá de cálculo diferencial e integral' são formas divertidas e leves de revisar o conteúdo :)
+
+## Contribuições
