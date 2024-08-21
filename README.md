@@ -1,12 +1,14 @@
 <h1 align="center"><i>Cálculo Diferencial e Integral II</i></h1>
 
-<h3 align="center">Curadoria de recursos para o estudo de integrais e funções de duas variáveis</h3>
+<h3 align="center">Recursos para o estudo de integrais e funções de duas variáveis</h3>
 
-<p align="center">...</p>
+<p align="center">Este repositório reune materiais diversos para o estudo de integrais e funções de duas variáveis. Apresenta também materiais para revisão de tópicos importantes.</p>
 
 ## Sobre o projeto
 
 ## Contribuidores
+
+<a href="https://github.com/camilaqPereira"><img src="https://avatars.githubusercontent.com/u/116687830?v=4" title="camilaqPereira" width="50" height="50"></a>
 
 ## Overview do repositório
 
